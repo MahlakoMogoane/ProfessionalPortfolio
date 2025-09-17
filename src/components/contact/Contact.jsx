@@ -11,17 +11,17 @@ const addressData = [
   {
     icon: faLocationDot,
     title: "Address",
-    description: "New Mexico, 31134",
+    description: "Johannesburg, South Africa, 2092",
   },
   {
     icon: faEnvelope,
     title: "My Email",
-    description: "mymail@mail.com",
+    description: "mahlakomogoane@outlook.com",
   },
   {
     icon: faPhone,
     title: "Call Me Now",
-    description: "00-123 00000",
+    description: "+27 61 486 0199",
   },
 ];
 

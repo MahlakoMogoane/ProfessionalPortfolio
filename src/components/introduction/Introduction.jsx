@@ -37,7 +37,7 @@ const Introduction = () => {
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
             I'm a Freelance <span className="bg-highlight">Software Engineer</span>{" "}
             and <span className="bg-highlight"> Mixed-Reality Engineer</span> based in
-            Johannesburg, South Africa. I strives to build immersive and beautiful
+            Johannesburg, South Africa. I strive to build immersive and beautiful
             applications through carefully crafted code and user-centric design.
           </p>
           <p className="text-center lg:text-start">
@@ -62,7 +62,7 @@ const Introduction = () => {
       >
         <img
           className={`shadow-2xl shadow-gray-200 w-full h-full absolute bottom-0 object-cover bg-white rounded-3xl`}
-          src="https://drive.google.com/file/d/1ozexzVU07PldJF-rqkuegAiKlhzJSNVZ/view?usp=sharing"
+          src="src/assets/profile.jpg"
           alt="person"
         />
       </div>

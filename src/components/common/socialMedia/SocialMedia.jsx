@@ -8,11 +8,7 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const socialIcons = [
-  { icon: faFacebookF, link: "#!" },
-  { icon: faDribbble, link: "#!" },
-  { icon: faInstagram, link: "#!" },
-  { icon: faLinkedin, link: "#!" },
-  { icon: faBehance, link: "#!" },
+  { icon: faLinkedin, link: "https://www.linkedin.com/in/mahlako-mogoane-807268315" },
 ];
 
 const SocialMedia = () => {
